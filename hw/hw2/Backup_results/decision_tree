@@ -1,0 +1,9 @@
+digraph {
+	1507341240528 [label="Feature 1 < 0.20
+Entropy: 0.67
+Gain Ratio: 1.00"]
+	1507341240528 -> 1507394991696 [label=True]
+	1507394991696 [label="Class: 0"]
+	1507341240528 -> 1507395075920 [label=False]
+	1507395075920 [label="Class: 1"]
+}
